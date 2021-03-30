@@ -1,6 +1,0 @@
-From : Unbuntu: 20.10.2, build 2291f61
-Label: maintainer=franckk@gmail.com
-RUN apt-get install
-Run install nginix
-ADD static-website /var/www/html # add or copy
-Expose 80
